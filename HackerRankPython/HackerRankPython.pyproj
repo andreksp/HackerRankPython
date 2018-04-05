@@ -21,6 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="CrackingCodingInteview\balancedBrakets.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CrackingCodingInteview\comparator.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="DataStructures\Arrays\array2dDS.py" />
     <Compile Include="DataStructures\Arrays\arrayDS.py" />
     <Compile Include="DataStructures\LinkedLists\PrintElements.py" />
@@ -50,6 +56,7 @@
     <Folder Include="DataStructures\LinkedLists\" />
     <Folder Include="Implementation\" />
     <Folder Include="Implementation\__pycache__\" />
+    <Folder Include="CrackingCodingInteview\" />
     <Folder Include="Strings\" />
     <Folder Include="Strings\__pycache__\" />
     <Folder Include="Warmup\" />

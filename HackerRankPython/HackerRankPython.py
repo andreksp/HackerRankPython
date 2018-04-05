@@ -14,12 +14,13 @@ from Strings.strongPassword import StrongPassword
 from DataStructures.Arrays.arrayDS import ArrayDS
 #from DataStructures.Arrays.Array2dDS import Array2dDS
 from Strings.hackerRankString import HackerRankString
+from CrackingCodingInteview.comparator import Comparator
 #k = Kangoroo()
 
 #k.process()
 
 #TwoCharacters().process()
 
-s = HackerRankString()
+s = Comparator()
 s.process()
 
