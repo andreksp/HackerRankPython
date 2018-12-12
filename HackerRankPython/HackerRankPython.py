@@ -15,12 +15,11 @@ from DataStructures.Arrays.arrayDS import ArrayDS
 #from DataStructures.Arrays.Array2dDS import Array2dDS
 from Strings.hackerRankString import HackerRankString
 from CrackingCodingInteview.comparator import Comparator
-#k = Kangoroo()
+from InterviewPreparationKit.WarmUp.sockMerchant import SockMerchant
+from InterviewPreparationKit.WarmUp.jumpingOnClouds import JumpingOnClouds
+from InterviewPreparationKit.WarmUp.repeatedString import RepeatedString
 
-#k.process()
 
-#TwoCharacters().process()
-
-s = Comparator()
+s = RepeatedString()
 s.process()
 
